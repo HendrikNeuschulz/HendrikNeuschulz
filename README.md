@@ -1,18 +1,18 @@
-# hello _world_:wave:! Welcome to my GitHub :)
+# hello _world_:wave:! Welcome to my GitHub :trollface: :)
 
-* 
-* :round_pushpin:based in _Bremen_:anchor:
+* :man: Hendrik Neuschulz
 * :infinity: 28 y/o
+* :round_pushpin:based in _Bremen_:anchor:
 * :man_student: Bachelor Professional of Business (CCI)
 * :soon: _WebDev_ @ Bootcamp on [neue Fische](https://www.neuefische.de/)
 
-### Interested in:
+### 💡 Interested in:
 
-* video games
-* IT stuff
-* football
+* 🎮 video games
+* 💻 IT stuff
+* ⚽ football
 
-### Check out this cute Cats!
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/HendrikNeuschulz/)
 
-[![](http://img.youtube.com/vi/laYQFi5LrZA/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
