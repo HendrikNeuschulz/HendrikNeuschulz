@@ -10,7 +10,7 @@
 * IT stuff
 * football
 
-### see cute stuff?
+### Check out this cute Cats?
 
 [![](http://img.youtube.com/vi/laYQFi5LrZA/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
