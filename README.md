@@ -1,8 +1,10 @@
-# hello _world_! Welcome to my GitHub :)
-## my name is Hendrik and i..
+# hello _world_:wave:! Welcome to my GitHub :)
 
-* based in _Bremen_
-* currently in a **bootcamp** at [neue Fische](https://www.neuefische.de/) to become a _WebDev_
+* 
+* :round_pushpin:based in _Bremen_:anchor:
+* :infinity: 28 y/o
+* :man_student: Bachelor Professional of Business (CCI)
+* :soon: _WebDev_ @ Bootcamp on [neue Fische](https://www.neuefische.de/)
 
 ### Interested in:
 
