@@ -1,5 +1,5 @@
 # hello _world_! Welcome to my GitHub :)
-## my Name is Hendrik and I..
+## my name is Hendrik and i..
 
 * based in _Bremen_
 * currently in a **bootcamp** at [neue Fische](https://www.neuefische.de/) to become a _WebDev_
